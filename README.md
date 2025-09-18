@@ -4,13 +4,13 @@
 
 **QuickAI** is a full-featured **AI-powered SaaS application** that makes your **content creation workflow effortless**.
 
-With QuickAI, you can:
-✅ Generate **articles & blog titles** instantly
-✅ Create content in multiple styles (formal, casual, professional)
-✅ Remove **backgrounds & objects** from images
-✅ Review & improve **resumes** with AI feedback
-✅ Like & share creations in the **community hub**
-✅ Unlock premium tools with **subscription plans**
+With QuickAI, you can:<br>
+✅ Generate **articles & blog titles** instantly<br>
+✅ Create content in multiple styles (formal, casual, professional)<br>
+✅ Remove **backgrounds & objects** from images<br>
+✅ Review & improve **resumes** with AI feedback<br>
+✅ Like & share creations in the **community hub**<br>
+✅ Unlock premium tools with **subscription plans**<br>
 
 ⚡ It’s designed for **creators, students, professionals, and marketers** who want to save time while producing high-quality content.
 
