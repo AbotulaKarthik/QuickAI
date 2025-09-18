@@ -17,7 +17,7 @@ With QuickAI, you can:<br>
 
 🌐 Live URL
 
-👉 [https://quick-ai-lemon-five.vercel.app/ai](https://quick-ai-lemon-five.vercel.app/ai)
+👉 [https://quick-ai-lemon-five.vercel.app](https://quick-ai-lemon-five.vercel.app)
 
 
 🛠️ Tech Stack
